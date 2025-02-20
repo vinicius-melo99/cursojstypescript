@@ -32,7 +32,7 @@ export const squareOf = (x: any) => {
 };
 
 const squareOfTwoNumber = squareOf(2);
-const squareOfTwoString = squareOf('2');
+// const squareOfTwoString = squareOf('2');
 
 if (squareOfTwoNumber === null) {
   console.log('conta cagada');
